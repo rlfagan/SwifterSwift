@@ -350,6 +350,7 @@ We want your feedback.
 Please refer to [contributing guidelines](https://github.com/SwifterSwift/SwifterSwift/tree/master/CONTRIBUTING.md) before participating.
 
 ## Slack Channel: [![Slack](https://slackin-ppvrggbpgn.now.sh/badge.svg)](https://slackin-ppvrggbpgn.now.sh/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FSwifterSwift.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FSwifterSwift?ref=badge_shield)
 
 It is always nice to talk with other people using SwifterSwift and exchange experiences, so come [join our Slack channel](https://slackin-ppvrggbpgn.now.sh/).
 
@@ -366,3 +367,6 @@ Special thanks to:
 ## License
 
 SwifterSwift is released under the MIT license. See [LICENSE](https://github.com/SwifterSwift/SwifterSwift/blob/master/LICENSE) for more information.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FSwifterSwift.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FSwifterSwift?ref=badge_large)
